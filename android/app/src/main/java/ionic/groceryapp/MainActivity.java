@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package ionic.groceryapp;
 
 import com.getcapacitor.BridgeActivity;
 

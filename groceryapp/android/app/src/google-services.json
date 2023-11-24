@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:768599766751:android:b8867f2a28ee7634351b6a",
         "android_client_info": {
-          "package_name": "com.example.groceryapp"
+          "package_name": "ionic.groceryapp"
         }
       },
       "oauth_client": [],
